@@ -10,11 +10,7 @@ Smooth flip animations for cards using GSAP
 
 “Disappear” animation when pairs are matched
 
-Hover effects with subtle card scaling
-
-Score tracking and end screen with Play Again option
-
-Modular architecture: Game, Card, CardsInitializer, Button
+Hover effects 
 
 ## Tech Stack
 
